@@ -1,1 +1,1 @@
- second commit this is a third commit basic git exercises
+ this is the third commit second commit this is a third commit basic git exercises
