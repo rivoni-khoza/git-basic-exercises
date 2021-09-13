@@ -1,0 +1,59 @@
+    1  is
+    2  is
+    3  git config --global user.name "Rivoni Khoza"
+    4  git config --global user.email rivonikhoza@gmail.com
+    5  Is
+    6  git config --global user.name"[rivoni khoza]"
+    7  mkdir git-basic-exercises
+    8  cd git-basic-exercises
+    9  dir
+   10  git branch -a 
+   11  git init git-basic-exercises
+   12  dir
+   13  git status
+   14  touch README.md
+   15  dir
+   16  git status
+   17  git log
+   18  git add README.md
+   19  git status
+   20  git restore --staged README.md
+   21  git status
+   22  git add README .md
+   23  git add README.md
+   24  git commit -m "initial commit"
+   25  git log
+   26  nano README.md
+   27  cat README.md
+   28  git status
+   29  git commit -m "second commit"
+   30  git add README.md
+   31  git commit -m "second commit"
+   32  nano README.md
+   33  git log
+   34  $ mkdir this-will-be-another-repo
+   35  mkdir: cannot create directory ‘this-will-be-another-repo’: Permission denied
+   36  git checkout commit 581a6c9b0a1162ecc38bbf12bc729348179dfcd0
+   37  git checkout commit 581a6c9b0a1162ecc38bbf12bc729348179dfcd0
+   38  cat README.md
+   39  git checkout main
+   40  cat README.md
+   41  git branch
+   42  git branch -b milkshake-flavours
+   43  git branch milkshake-flavours
+   44  git branch
+   45  git checkout milkshake-flavours
+   46  nano milkshakes.md
+   47  git status
+   48  git add milkshakes.md
+   49  git commit "added initial flavours"
+   50  git commit -m "added initial flavours"
+   51  git log
+   52  git checkout main
+   53  git checkout master
+   54  git checkout branch history
+   55  git checkout history
+   56  git checkout -b history
+   57  git log
+   58  git branch
+   59  history > history.text
