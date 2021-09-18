@@ -1,0 +1,8 @@
+    1  git pull https://github.com/rivoni-khoza/git-basic-exercises.git
+    2  git fetch https://github.com/rivoni-khoza/git-basic-exercises.git
+    3  git branch
+    4  git checkout History
+    5  git status
+    6  git checkout main
+    7  git checkout History
+    8  history > history.txt
